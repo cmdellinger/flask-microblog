@@ -1,0 +1,13 @@
+#
+# To activate this environment, use:
+# > source activate microblog
+#
+# To deactivate an active environment, use:
+# > source deactivate
+#
+
+# use to set microblog.py as executable
+# > FLASK_APP=microblog.py
+
+# use to start flask webpage server
+# > flask run
